@@ -1,0 +1,10 @@
+spring:
+    application:
+        name: demo
+okta:
+    oauth2:
+        issuer: https://dev-onndnd6ab5wkuwt0.eu.auth0.com/
+        client-id: aqlhOIjZwK43jGluBXQkL1rsA6FwNdtG
+        client-secret: I43QDOo5JFjYNpQdLEhmbiDrlPqgGkyNKDcgWT30bgcpPLrq0UfI-AyE8uMpfvcT
+        audience: https://dev-onndnd6ab5wkuwt0.eu.auth0.com/api/v2/
+debug: true
